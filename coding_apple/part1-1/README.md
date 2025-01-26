@@ -8,6 +8,8 @@
 
    1. [깃다운](https://git-scm.com/downloads)
    2. 이미지에 맞게 수정 후 Next
+![image](https://github.com/user-attachments/assets/544e9537-0fe1-450b-aaad-84a9062f595a)
+
 
 3. 실행
    1. 개발할 폴더 우클릭하여 PowerShell창을 연다 or vscode로 열어서 실행해도됨
