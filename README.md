@@ -1,2 +1,6 @@
-# Study_git-github
-깃과 깃허브의 관련된 공부
+# Study git-github
+
+> 깃을 공부하자!
+
+## 📝 공부목록
+### 🔹 [코딩애플 강의](https://codingapple.com/)
